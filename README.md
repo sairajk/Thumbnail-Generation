@@ -9,6 +9,9 @@ The paper proposes a deep neural framework to generate thumbnails of any size an
 
 The original image is shown on the left with the generated thumbnails on the right. The query aspect ratio is given in blue and the aspect ratio of the generated thumbnail is given in red.
 
+### Dataset
+The dataset used can be found [here](https://www.dropbox.com/s/760jyienh2gjcby/Thumbnail%20Data%20Set.zip?dl=0).
+
 ## Citation
 If you find this work useful in your research, please consider citing:
 
