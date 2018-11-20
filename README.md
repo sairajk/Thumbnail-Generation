@@ -9,6 +9,9 @@ The paper proposes a deep neural framework to generate thumbnails of any size an
 
 The original image is shown on the left with the generated thumbnails on the right. The query aspect ratio is given in blue and the aspect ratio of the generated thumbnail is given in red.
 
+### Code
+The code is written in Python 3 with Tensorflow 1.6. The pretrained weights for the custom VGG-19 model can be found [here](https://drive.google.com/file/d/1b9QAd2PrcAVacDgEomoUehEY1IzlZgoB/view?usp=sharing).
+
 ### Dataset
 The dataset used can be found [here](https://www.dropbox.com/s/760jyienh2gjcby/Thumbnail%20Data%20Set.zip?dl=0).
 
