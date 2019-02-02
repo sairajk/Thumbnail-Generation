@@ -16,7 +16,7 @@ The code is written in Python 3 with Tensorflow 1.6. The pretrained weights for 
 The dataset used can be found [here](https://www.dropbox.com/s/760jyienh2gjcby/Thumbnail%20Data%20Set.zip?dl=0).
 
 ## Citation
-If you find this work useful in your research, please consider citing:
+If you find this work useful in your research, please consider citing: 
 
     @article{kishore2018user,
     title={User Constrained Thumbnail Generation using Adaptive Convolutions},
@@ -24,3 +24,5 @@ If you find this work useful in your research, please consider citing:
     journal={arXiv preprint arXiv:1810.13054},
     year={2018}
     }
+
+This paper is accepted to IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2019.
